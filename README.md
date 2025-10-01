@@ -1,5 +1,9 @@
-# 👋 Hello, World! I'm Robert Stwart  
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=# Hello,+There!+👋;This+is+Robert Stwart;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+ 
 Welcome to my **GitHub**! 🚀  
 I’m a passionate **Senior Software Developer** who loves building clean, scalable, and impactful solutions.  
 
