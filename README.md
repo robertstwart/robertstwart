@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, World! I'm Robert Stwart  
 
 Welcome to my corner of GitHub! 🚀  
