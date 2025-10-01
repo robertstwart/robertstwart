@@ -47,3 +47,5 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)  
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
