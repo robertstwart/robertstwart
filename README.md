@@ -36,9 +36,9 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 
 ## ✨ Featured Projects  
 
-- 🔹 [**Project One**]([https://github.com/metadata/ProjectOne](https://github.com/robertstwart/pets-workshop))  
-- 🔹 [**Project Two**]([https://github.com/pets-workshop/ProjectTwo](https://github.com/robertstwart/metadata))
-- 🔹 [**Project Three**]([https://github.com/uikit-swiftui/ProjectThree](https://github.com/robertstwart/uikit-swiftui))
+- 🔹 [**Project One**](https://github.com/robertstwart/pets-workshop) 
+- 🔹 [**Project Two**](https://github.com/robertstwart/metadata)
+- 🔹 [**Project Three**](https://github.com/robertstwart/uikit-swiftui)
 ---
 
 ## 🤝 Connect With Me  
