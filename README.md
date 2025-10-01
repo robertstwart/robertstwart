@@ -12,6 +12,12 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 - 🎯 Goal: **[To continuously advance my expertise in modern software engineering practices, focusing on building scalable, secure, and high-performance applications that create real value for users.]**  
 ---
 
+## 📊 GitHub Dashboard Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
 ## 🛠️ Tech Stack  
 **Languages & Tools I Use Most:**  
 
