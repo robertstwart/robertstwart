@@ -36,10 +36,9 @@ I’m a passionate **Senior Software Developer** who loves building clean, scala
 
 ## ✨ Featured Projects  
 
-- 🔹 [**Project One**](https://github.com/YourUsername/ProjectOne) — Short description of what it does.  
-- 🔹 [**Project Two**](https://github.com/YourUsername/ProjectTwo) — Short description of what it does.  
-- 🔹 [**Project Three**](https://github.com/YourUsername/ProjectThree) — Short description of what it does.  
-
+- 🔹 [**Project One**](https://github.com/metadata/ProjectOne)  
+- 🔹 [**Project Two**](https://github.com/pets-workshop/ProjectTwo)
+- 🔹 [**Project Three**](https://github.com/uikit-swiftui/ProjectThree)
 ---
 
 ## 🤝 Connect With Me  
